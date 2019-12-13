@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# RailsStudentApi
+=======
+>>>>>>> af71657202694719c68343c3876015247c00b3a2
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +28,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
+=======
+>>>>>>> initial commit
+>>>>>>> af71657202694719c68343c3876015247c00b3a2
